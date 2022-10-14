@@ -8,8 +8,8 @@ struct batsman
 int main()
 {
     int i,n;
-    printf("Batsmen Details\n");
-    printf("===============\n");
+    printf("Batsmen Details");
+    printf("\n===============\n");
     printf("Enter the No. of Batsmen: ");
     scanf("%d",&n);
     for(i=0;i<n;i++)
