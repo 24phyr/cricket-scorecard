@@ -2,7 +2,7 @@
 struct bowler
 {
     double overs, runs, maiden, wicket, econ;
-    char name[50];
+    char name[25];
 }ball[100];
 
 int main()
